@@ -4,7 +4,5 @@
 
 
 
-![Screenshot 2023-12-20 114419](https://github.com/SAHIL7458/Online-Resume-Builder/assets/144415695/e8951afe-ab96-47a0-80e3-dc8de54bd90a)
+![1](https://github.com/SAHIL7458/Online-Resume-Builder/assets/144415695/4c731b48-cd8d-4583-b3aa-79d03dfe69ef)
 
-
-![Screenshot 2023-12-25 152551](https://github.com/SAHIL7458/Online-Resume-Builder/assets/144415695/be30840c-49d7-4e6d-a8b1-46e68515bd8f)
