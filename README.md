@@ -3,6 +3,5 @@
 
 
 
-
-![1](https://github.com/SAHIL7458/Online-Resume-Builder/assets/144415695/4c731b48-cd8d-4583-b3aa-79d03dfe69ef)
+![final](https://github.com/SAHIL7458/Online-Resume-Builder/assets/144415695/56d0ca01-9c94-4803-b45f-ac69d6307d47)
 
