@@ -6,3 +6,5 @@
 ![final](https://github.com/SAHIL7458/Online-Resume-Builder/assets/144415695/56d0ca01-9c94-4803-b45f-ac69d6307d47)
 
 ![Screenshot 2023-12-25 152551](https://github.com/SAHIL7458/Online-Resume-Builder/assets/144415695/72cd30c9-7d5d-4bee-b21b-39664e498fb3)
+
+![3](https://github.com/SAHIL7458/Online-Resume-Builder/assets/144415695/a1246025-9554-4ee2-93b4-bbaee6d22ee6)
